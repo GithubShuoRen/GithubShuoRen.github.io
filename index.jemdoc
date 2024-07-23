@@ -1,0 +1,55 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Shuo Ren - The Chinese University of Hong Kong}
+
+~~~
+{}{img_left}{img/photo.jpg}{}{126}{}{}
+= Shuo Ren
+
+*Ph.D. student*  
+
+[http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering] \n
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong] \n
+*Office*:Rm 905, Ho Sin Hang Engineering Building \n
+*Email*:renshuo139\[at\]gmail.com; 1155224011\[at\]link.cuhk.edu.hk \n
+~~~
+
+#{{<a href="https://www.linkedin.com/in/yuzhe-ma-275a7bb5" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
+#<a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
+
+
+== Biography
+
+I'm a Ph.D. student at the [http://www.cse.cuhk.edu.hk Department of Computer Science and Engineering],  
+[http://www.cuhk.edu.hk/english/index.html The Chinese University of Hong Kong (CUHK)], 
+under the supervision of [https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/ Prof. Ho] since Fall 2024.
+Previously, I received Bachelor of Engineering from [https://www.imperial.ac.uk/computing Department of Computer], [https://www.hust.edu.cn/yxsz.htm HUST(Huazhong University of Science and Technology)] in 2024,
+
+
+My research interests include 3D IC optimization and floorplanning.
+
+#[http://yuzhe630.github.io/cv/cv_Yuzhe.pdf *My Resume/CV*]
+
+
+== Publications
+- \[J1\] Zhou J, *Ren S*, He K, et al. An efficient solution space exploring and descent method for packing equal spheres in a sphere[J]. Computers & Operations Research, 2024, 164: 106522.
+
+- \[C1\] *Shuo Ren*, Zijie Guo, Tianbao Qiu, Kun He,
+  "[Greedy Backtracking based Local Dynamic Programming for the Complete 0-1 Knapsack Problem]",
+  
+
+
+== Selected Awards
+~~~
+{}{table}{noborder}
+Postgraduate Studentship           | CUHK  | 2024-2028  ||
+Outstanding Graduates              | HUST  | 2024 ||
+National Scholarship   | Chinese Ministry of Education  | 2021  ||
+~~~
+
+
+== Teaching
+
+# 2024 Fall: [http://www.cse.cuhk.edu.hk/~byu/CENG4480/index.html CENG4480 -- Embedded System Development and Applications]
+
